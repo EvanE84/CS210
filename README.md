@@ -1,4 +1,4 @@
-<i>Summarize the project and what problem it was solving.</i>
+<i>Summarize the project and what problem it was solving.</i><br />
 
   The Corner Grocer program is for project 3 of SNHU's CS 210 course. It is to showcase communication between C++ and Python.
 
